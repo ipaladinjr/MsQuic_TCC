@@ -1,6 +1,3 @@
-// https://ibb.co/mrKMTxc3
-// https://ibb.co/r2xC7kQw
-// https://ibb.co/pcBV0wm
 // Compile with: gcc quicserver.c -o quicserver -lmsquic -lpthread
 
 #include <stdio.h>
