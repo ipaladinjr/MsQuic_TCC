@@ -19,7 +19,7 @@
 // CONFIG - Make server IP configurable  
 #define QUIC_PORT 50072
 #define LOCAL_TCP_PORT 8081
-#define SERVER_IP "0.0.0.0"  // **ADD THIS LINE** - Listen on all interfaces for network access
+#define SERVER_IP "0.0.0.0"
 #define BUFFER_SIZE 4096
 #define CERT_FILE "server_cert.pem"
 #define KEY_FILE "server_key.pem"
